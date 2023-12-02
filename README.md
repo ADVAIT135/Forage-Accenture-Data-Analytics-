@@ -21,4 +21,4 @@ This Repository consist of all the Jupyter Notebooks, Images and Excel files of 
 ## Task 4: Client Presentation
 https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/assets/59262727/d923d935-0b55-4303-9a4e-0ddefe4f22c7
 
-
+## [Completion Certificate](https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/blob/841fe0b45a370a8ec77040aaa48fcdb35d653dc1/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_xHj9pxotQTSvEtW8B_1701528341116_completion_certificate.pdf)
