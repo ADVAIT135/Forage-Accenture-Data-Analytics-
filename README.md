@@ -13,3 +13,5 @@ This Repository consist of all the Jupyter Notebooks, Images and Excel files of 
 
 ## Task 3: Data Visualization and Storytelling
 ### [Task 3 Interactive Python Notebook](https://nbviewer.org/github/ADVAIT135/Forage-Accenture-Data-Analytics-/blob/b0889fcad1c1bded922e500978cf9c4af7304aa0/Task%203%3A%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20Storytelling.ipynb)
+### [Task 3 Data Insights PDF](https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/blob/523328fe309287c5d6348fa49569e1033016420b/Task%203%3A%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20storytelling.pdf)
+### [Task 3 Power BI file(.pbix)](https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/raw/main/Task%203:%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20storytelling.pbix)
