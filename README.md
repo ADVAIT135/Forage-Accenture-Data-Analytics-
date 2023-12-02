@@ -1,6 +1,6 @@
 <p>
 <img src="https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/blob/b347a00cfcdcfb13ea8245d2cc6b8a4889a9329e/Forage%20Logo.PNG?raw=True" alt="Forage" >
-<img src="https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/blob/b347a00cfcdcfb13ea8245d2cc6b8a4889a9329e/Accenture%20Logo.PNG?raw=true" alt="British Airways" >
+<img src="https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/blob/b347a00cfcdcfb13ea8245d2cc6b8a4889a9329e/Accenture%20Logo.PNG?raw=true" alt="Accenture" >
 </p>
 
 # Forage-Accenture-Data-Analytics-
